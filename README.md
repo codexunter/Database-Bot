@@ -1,9 +1,7 @@
 # Telegram bot for managing a database.
 
-This app can add records to a database, delete records, and show records.
+User can add records to, delete records from, and show records in a database
 
-A records consists of two fields: Name and Password
+A record comprise two fields: Name and Password
 
-Follow the link below to watch the video demonstrating functionality of the bot:
-
-https://coder1382.github.io/Database-Telegram-Bot-Python/
+[Follow the link to watch](https://coder1382.github.io/Database-Telegram-Bot-Python/)
